@@ -2,6 +2,12 @@
 
 ## Building and running
 
+Quick start:
+
+`docker-compose run --build`
+
+This will build and run the application.
+
 To build:
 
 `docker-compose build`
